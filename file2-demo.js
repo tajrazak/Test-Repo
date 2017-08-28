@@ -1,3 +1,3 @@
 function setName(){
-	console.log('hello demo');
+	console.log('hello demo')
 }
